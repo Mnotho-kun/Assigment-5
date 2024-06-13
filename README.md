@@ -8,6 +8,7 @@
    - Visit the [official Visual Studio Code website](https://code.visualstudio.com/).
    - Click on the "Download for Windows" button.
    - The site will automatically detect your OS and provide the appropriate download link.
+   - ![1--Official-Page](https://github.com/Mnotho-kun/Assigment-5/assets/168840740/616d0887-a9ac-4ec9-bb2f-43f83ffe5e59)
 
 2. **Install VS Code:**
    - Run the downloaded installer (usually `VSCodeUserSetup-x64-<version>.exe`).
