@@ -185,6 +185,8 @@
 ### Key Debugging Features
 - Breakpoints, step through code, watch variables, and view call stack.
 
+- ![debugging_hero](https://github.com/Mnotho-kun/Assigment-5/assets/168840740/1a150851-e046-449c-9b01-3eaa39184047)
+
 ## Using Source Control
 
 ### Integrating Git with VS Code
