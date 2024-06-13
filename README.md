@@ -37,6 +37,7 @@
 1. **Settings Sync:**
    - Go to `File > Preferences > Settings` or press `Ctrl+,`.
    - Search for "Settings Sync" and sign in with your Microsoft or GitHub account to sync settings across devices.
+   - ![turn-on-sync](https://github.com/Mnotho-kun/Assigment-5/assets/168840740/985fcf5c-7f90-4462-b5b3-05b64f27dd2f)
 
 2. **Theme and Appearance:**
    - Open the Command Palette (`Ctrl+Shift+P`) and type `Color Theme`.
