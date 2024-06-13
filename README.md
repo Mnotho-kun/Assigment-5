@@ -207,3 +207,47 @@
    - Use the Command Palette (`Ctrl+Shift+P`) and type `Push` to push commits to the remote repository.
 
 By following these instructions, users can efficiently install, set up, and navigate Visual Studio Code, enhancing their coding environment and productivity.
+
+## References
+
+1. **Settings Sync:**
+   ![Settings Sync](assets/settings-sync.png)
+   - [Visual Studio Code Documentation](https://code.visualstudio.com/docs/editor/settings-sync)
+
+2. **Theme and Appearance:**
+   ![Color Theme](assets/color-theme.png)
+   - [Visual Studio Code Documentation](https://code.visualstudio.com/docs/getstarted/themes)
+
+3. **Extensions:**
+   ![Extensions](assets/extensions.png)
+   - [Visual Studio Code Marketplace](https://marketplace.visualstudio.com)
+
+4. **Editor Settings:**
+   ![Editor Settings](assets/editor-settings.png)
+   - [Visual Studio Code Documentation](https://code.visualstudio.com/docs/getstarted/settings)
+
+5. **Activity Bar:**
+   ![Activity Bar](assets/activity-bar.png)
+   - [Visual Studio Code Documentation](https://code.visualstudio.com/docs/getstarted/userinterface#_activity-bar)
+
+6. **Side Bar:**
+   ![Side Bar](assets/side-bar.png)
+   - [Visual Studio Code Documentation](https://code.visualstudio.com/docs/getstarted/userinterface#_side-bar)
+
+7. **Editor Group:**
+   ![Editor Group](assets/editor-group.png)
+   - [Visual Studio Code Documentation](https://code.visualstudio.com/docs/getstarted/userinterface#_editor-group)
+
+8. **Status Bar:**
+   ![Status Bar](assets/status-bar.png)
+   - [Visual Studio Code Documentation](https://code.visualstudio.com/docs/getstarted/userinterface#_status-bar)
+  
+
+7. **Initialize Repository:**
+    ![Initialize Repository](assets/initialize-repository.png)
+    - [Visual Studio Code Documentation](https://code.visualstudio.com/docs/editor/versioncontrol)
+
+8. **Make Commits:**
+    ![Make Commits](assets/make-commits.png)
+    - [Visual Studio Code Documentation](https://code.visualstudio.com/docs/editor/versioncontrol)
+
