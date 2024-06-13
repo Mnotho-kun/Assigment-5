@@ -12,15 +12,13 @@
 
 2. **Install VS Code:**
    - Run the downloaded installer (usually `VSCodeUserSetup-x64-<version>.exe`).
+   - ![3--Open-File](https://github.com/Mnotho-kun/Assigment-5/assets/168840740/de9f04f7-7a79-4b4a-9a72-6f03cfdb6634)
    - Follow the installation wizard steps:
      - Accept the license agreement.
      - Choose the installation location.
      - Select additional tasks (e.g., create a desktop icon, add to PATH, register code as an editor for supported file types).
    - Click “Install” and wait for the process to complete.
    - Once installed, you can choose to launch Visual Studio Code immediately.
-   - ![3--Open-File](https://github.com/Mnotho-kun/Assigment-5/assets/168840740/de9f04f7-7a79-4b4a-9a72-6f03cfdb6634)
-
-
 
 ### Prerequisites
 - Windows 11 operating system.
