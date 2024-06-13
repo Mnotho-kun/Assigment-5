@@ -19,6 +19,11 @@
      - Select additional tasks (e.g., create a desktop icon, add to PATH, register code as an editor for supported file types).
    - Click “Install” and wait for the process to complete.
    - Once installed, you can choose to launch Visual Studio Code immediately.
+   - ![4--Accept-License](https://github.com/Mnotho-kun/Assigment-5/assets/168840740/214abd28-5a20-47cd-b76f-b85770de22d5)
+   - ![5--Click-Next](https://github.com/Mnotho-kun/Assigment-5/assets/168840740/f0751356-47de-4053-8c03-f245730d6fab)
+   - ![6--Click-Install](https://github.com/Mnotho-kun/Assigment-5/assets/168840740/0900e50f-7706-4bad-82b8-b9f1af90944f)
+   - ![8--Finish](https://github.com/Mnotho-kun/Assigment-5/assets/168840740/3ddaff5f-932d-47b2-9d25-76d8e80b021f)
+
 
 ### Prerequisites
 - Windows 11 operating system.
