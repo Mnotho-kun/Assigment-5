@@ -42,6 +42,7 @@
 2. **Theme and Appearance:**
    - Open the Command Palette (`Ctrl+Shift+P`) and type `Color Theme`.
    - Choose a preferred theme from the available options.
+   - ![themes_hero](https://github.com/Mnotho-kun/Assigment-5/assets/168840740/86b9bd45-2972-4a8c-922b-bee72332b65c)
 
 3. **Extensions:**
    - Install essential extensions:
@@ -50,6 +51,9 @@
      - **Prettier - Code Formatter:** For code formatting.
      - **Live Server:** To launch a development local server with live reload.
      - **GitLens:** Supercharges the Git capabilities built into Visual Studio Code.
+     - ![extensions-view-icon](https://github.com/Mnotho-kun/Assigment-5/assets/168840740/27cab81c-1526-463d-bace-a4dfb4b897e4)
+     - ![extensions-popular](https://github.com/Mnotho-kun/Assigment-5/assets/168840740/fd7e02cf-6330-46bc-943f-56d975b5865b)
+
 
 4. **Editor Settings:**
    - Configure settings for a better coding experience:
@@ -76,6 +80,8 @@
 4. **Status Bar:**
    - Located at the bottom of the window.
    - Displays information about the open file, such as encoding, line ending, language mode, and git branch.
+  
+   - ![Editor bar](https://github.com/Mnotho-kun/Assigment-5/assets/168840740/f5ab9e09-e7b7-4669-8e12-f5652fe11d0e)
 
 ## Command Palette
 
