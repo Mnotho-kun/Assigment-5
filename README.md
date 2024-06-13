@@ -194,10 +194,14 @@
 1. **Initialize Repository:**
    - Open the Source Control view by clicking the Source Control icon in the Activity Bar.
    - Click "Initialize Repository".
+  
+   - Watch a demo on YouTube: [Link to Demo](https://youtu.be/i_23KUAEtUM)
 
 2. **Making Commits:**
    - Stage changes by clicking the `+` icon next to files.
    - Enter a commit message and click the checkmark to commit.
+  
+   - Watch a demo on YouTube: [Link to Demo](https://youtu.be/E6ADS2k8oNQ)
 
 3. **Pushing to GitHub:**
    - Use the Command Palette (`Ctrl+Shift+P`) and type `Push` to push commits to the remote repository.
